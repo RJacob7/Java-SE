@@ -4,6 +4,7 @@ abstract class Super {
 
     public Super() {
         System.out.println("Modificacion"); //jacob test
+        System.out.println("Segundo test");
         System.out.println("Super Constructor");
     }
     
